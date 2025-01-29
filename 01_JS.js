@@ -8,3 +8,5 @@ function getObj(anyobject) {
     console.log(`Username is ${anyobject.username} and age is ${anyobject.age}`);
 
 }
+
+getObj(user)
